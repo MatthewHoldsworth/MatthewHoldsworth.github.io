@@ -58,7 +58,7 @@ Contained within this project is some use of Unity features that were new to me 
 
 ### CV
 #### Summary
-Graduate of Newcastle Universities Game Engineering Masters course, hired to Nomad Games as Unreal Engine graduate programmer for 1+years. I have a passion for all kinds of video games and am looking to further expand my current skills and understanding of game development in a professional environment.
+Graduate of Newcastle Universities Game Engineering Masters course, hired to Nomad Games as Unreal Engine programmer for 1+years. With a passion for all kinds of video games and am looking to further expand my skills and understanding of game development in a professional environment.
 #### Work Experience
 Nomad Games – Programmer – April 2023 – August 2024
 - I was brought on to Nomad Games, while completing my dissertation, to build up their Unreal Engine capacity, this included working on several Unreal projects at the studio and completing training in advanced C++ and Unreal systems such as GAS. 
@@ -96,8 +96,6 @@ Programming Languages: C++, C#, C, GLSL, HLSL, Java and Python
 - I am passionate about the techniques of making video games and fascinated with their implementation. I regularly spend my spare time creating projects to try out new ideas I came up with throughout the day or pick up and learn the basics of a new game engine or programming language. I also explore game concepts through online tutorials and videos.
 
 References are available upon request
-Donald Whiteford, CEO of Nomad Games Limited – don.whiteford@nomadgames.co.uk
-Carl Jackson, Design Director at Nomad Games Limited – Carl.Jackson@nomadgames.co.uk
 
 ### Links
 [LinkedIn](https://www.linkedin.com/in/matthew-holdsworth-449535264/)
