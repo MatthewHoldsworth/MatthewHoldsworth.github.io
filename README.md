@@ -58,6 +58,7 @@ Nomad Games – Programmer – April 2023 – August 2024
 - Builds of the product were made and sent out at various stages of development to publishers and received positive feedback. These demo builds were made within deadlines and contained features specific to informing publishers of the game.
 - Having been more experienced in Unity than Unreal I faced many challenges when being brought on. Due to the size of the team I was expected to work on almost every aspect of the game. I had to quickly learn how to develop unreal Behaviour Trees, UI Widgets and Blueprints. I coped with this by practising and learning about these systems outside of work, and over many iterations my work on these systems within the project improved and was brought up to a higher standard.
 - From my time at Nomad I have used wide range of Unreal systems such as Unreal Insights, Behaviour Trees, Materials, Environmental Query System, Gameplay Ability System, UI, Animations and its Blueprints.
+
 #### Education
 Newcastle University
 Master of Computing with First Class Honours in Computer Science (Game Engineering)
@@ -72,6 +73,7 @@ Undergraduate:
 - I collaborated with a group of peers to create a mobile application that simulated online banking. This was accomplished using AWS cloud storage with its SDK. This project involved an investigation into security features, such as credentials, checksums, and RSA encryption.
 A-Levels – History(A), Computer Science Advanced (B), Mathematics (C)
 10 GCSEs – Grades A* - C including English and Maths
+
 #### Related Skills
 Teamwork: From working with and organising projects at University to working within a professional team to build a game from the ground up at Nomad, I have worked competently and cooperatively within a teams, assigned and delegated tasks based on my own and others strengths, and participated in guiding the development of projects.
 Organisation: I have been able to manage my own time well as well as others by taking part in or leading team projects, societies, and clubs. This was especially so at Nomad where I and the other programmers organised ourselves and self-assigned tasks based on our prior experiences or preference.
