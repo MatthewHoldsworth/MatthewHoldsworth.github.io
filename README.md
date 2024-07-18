@@ -96,4 +96,5 @@ Carl Jackson, Design Director at Nomad Games Limited – Carl.Jackson@nomadgames
 
 ### Links
 [LinkedIn](https://www.linkedin.com/in/matthew-holdsworth-449535264/)
+
 [GitHub](https://github.com/MatthewHoldsworth)
