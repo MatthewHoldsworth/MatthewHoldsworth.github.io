@@ -21,10 +21,12 @@ https://github.com/MatthewHoldsworth/PhysicsEngineC
 
 ### Programmatic-Planet-Rendering
 This was my dissertation project for 3rd year, the aim of this project was to implement a variety of methods of procedural generation. Then record performance metrics of these methods at many levels of fidelity, and in evaluation compare them against one another.
+
 https://github.com/MatthewHoldsworth/Programmatic-Planet-Rendering
 
 ### CSC3231-UnityGraphics
 This project was an early 3rd year unity project. This was an introduction into game developments aspects such as shaders, scene graphs and particle systems. Its a rough piece of work that I have included as it contains some work I'm proud such as the water shader, camera controls and billboards.
+
 https://github.com/MatthewHoldsworth/CSC3231-UnityGraphics
 
 ### OpenGLGraphics
@@ -39,13 +41,18 @@ What Could Be Improved:
 - Lighting model could be improved with shadow mapping
 - Reflections of mesh geometry could be added to water
 - More geometry could be added to main scene along with the animated skeletal mesh
+
 https://github.com/MatthewHoldsworth/OpenGLGraphics
 
 ### C Programming Module
 This project is entirely my own work. This was to solve a problem regarding polynomial equations. The program can generate polynomials according to some specifications in the readme, it can generate a set of outputs for a range of x values. It can save and load output set and regenerate the polynomial equation used to generate them.
 
-### 3DTBS
+https://github.com/MatthewHoldsworth/CProgrammingModule
+
+### 3DTBS (3 Dimensional Turn Based Strategy)
 Body
+
+https://github.com/MatthewHoldsworth/3DTBS
 
 ### CV
 #### Summary
