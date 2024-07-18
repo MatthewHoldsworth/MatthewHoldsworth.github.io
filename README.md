@@ -41,6 +41,9 @@ What Could Be Improved:
 - More geometry could be added to main scene along with the animated skeletal mesh
 https://github.com/MatthewHoldsworth/OpenGLGraphics
 
+### C Programming Module
+This project is entirely my own work. This was to solve a problem regarding polynomial equations. The program can generate polynomials according to some specifications in the readme, it can generate a set of outputs for a range of x values. It can save and load output set and regenerate the polynomial equation used to generate them.
+
 ### 3DTBS
 Body
 
