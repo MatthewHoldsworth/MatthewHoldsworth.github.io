@@ -83,8 +83,11 @@ A-Levels – History(A), Computer Science Advanced (B), Mathematics (C)
 
 #### Related Skills
 Teamwork: From working with and organising projects at University to working within a professional team to build a game from the ground up at Nomad, I have worked competently and cooperatively within a teams, assigned and delegated tasks based on my own and others strengths, and participated in guiding the development of projects.
+
 Organisation: I have been able to manage my own time well as well as others by taking part in or leading team projects, societies, and clubs. This was especially so at Nomad where I and the other programmers organised ourselves and self-assigned tasks based on our prior experiences or preference.
+
 Diligence: I have met or exceeded the boundaries set throughout university and at Nomad through persistent practice at home as apart of hobby projects and independent exploration of solutions and techniques online for the purpose of understanding them. 
+
 Programming Languages: C++, C#, C, GLSL, HLSL, Java and Python
 - I was awarded the Bebras gold certificate for completing the organisation's elite challengers that aim to test problem solving skills in 16- to 18-year-olds. This was done outside of my 6th forms curriculum as a way for me to improve my problem-solving skills and sharpen them in a way I can apply when working on computer science projects.
 - I have a love of both video and tabletop games, I have collections of board games, video games and trading cards. I have pursued this interest within clubs such as the tabletop and board game society. I also managed a tabletop club at my secondary school for 2 years.
