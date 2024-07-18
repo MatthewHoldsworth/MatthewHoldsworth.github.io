@@ -27,7 +27,7 @@ https://github.com/MatthewHoldsworth/Programmatic-Planet-Rendering
 ### CSC3231-UnityGraphics
 This project was an early 3rd year unity project. This was an introduction into game developments aspects such as shaders, scene graphs and particle systems. Its a rough piece of work that I have included as it contains some work I'm proud such as the water shader, camera controls and billboards.
 
-[]https://github.com/MatthewHoldsworth/CSC3231-UnityGraphics
+[Link to Project](https://github.com/MatthewHoldsworth/CSC3231-UnityGraphics)
 
 ### OpenGLGraphics
 4th year C++ project that's focus was on creating a graphics rendering system. This included implementing features such as multiple lights, scene graphs and bump mapping, among others to create a scene that a scene that contains these features while maintaining a high frame rate. This scene also includes shaders that implement greyscale and blending.
