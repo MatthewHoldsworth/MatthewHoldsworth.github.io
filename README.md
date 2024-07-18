@@ -52,24 +52,24 @@ Body
 Graduate of Newcastle Universities Game Engineering Masters course, hired to Nomad Games as Unreal Engine graduate programmer for 1+years. I have a passion for all kinds of video games and am looking to further expand my current skills and understanding of game development in a professional environment.
 #### Work Experience
 Nomad Games – Programmer – April 2023 – August 2024
-    • I was brought on to Nomad Games, while completing my dissertation, to build up their Unreal Engine capacity, this included working on several Unreal projects at the studio and completing training in advanced C++ and Unreal systems such as GAS. 
-    • I was hired along with 2 other Programmers, and together with Artists, Designers, and members of Marketing we collaborated in a team to work on ‘Board Game Cafe’. This included participating in meetings to discuss features and production targets, as well as self-managing and cooperating on tasks with the other programmers.
-    • Our efforts were well received by management who who were satisfied with both the quality of our work and the conduct in which we self-managed ourselves and cooperated with other departments at Nomad.
-    • Builds of the product were made and sent out at various stages of development to publishers and received positive feedback. These demo builds were made within deadlines and contained features specific to informing publishers of the game.
-    • Having been more experienced in Unity than Unreal I faced many challenges when being brought on. Due to the size of the team I was expected to work on almost every aspect of the game. I had to quickly learn how to develop unreal Behaviour Trees, UI Widgets and Blueprints. I coped with this by practising and learning about these systems outside of work, and over many iterations my work on these systems within the project improved and was brought up to a higher standard.
-    • From my time at Nomad I have used wide range of Unreal systems such as Unreal Insights, Behaviour Trees, Materials, Environmental Query System, Gameplay Ability System, UI, Animations and its Blueprints.
+- I was brought on to Nomad Games, while completing my dissertation, to build up their Unreal Engine capacity, this included working on several Unreal projects at the studio and completing training in advanced C++ and Unreal systems such as GAS. 
+- I was hired along with 2 other Programmers, and together with Artists, Designers, and members of Marketing we collaborated in a team to work on ‘Board Game Cafe’. This included participating in meetings to discuss features and production targets, as well as self-managing and cooperating on tasks with the other programmers.
+- Our efforts were well received by management who who were satisfied with both the quality of our work and the conduct in which we self-managed ourselves and cooperated with other departments at Nomad.
+- Builds of the product were made and sent out at various stages of development to publishers and received positive feedback. These demo builds were made within deadlines and contained features specific to informing publishers of the game.
+- Having been more experienced in Unity than Unreal I faced many challenges when being brought on. Due to the size of the team I was expected to work on almost every aspect of the game. I had to quickly learn how to develop unreal Behaviour Trees, UI Widgets and Blueprints. I coped with this by practising and learning about these systems outside of work, and over many iterations my work on these systems within the project improved and was brought up to a higher standard.
+- From my time at Nomad I have used wide range of Unreal systems such as Unreal Insights, Behaviour Trees, Materials, Environmental Query System, Gameplay Ability System, UI, Animations and its Blueprints.
 ####Education
 Newcastle University
 Master of Computing with First Class Honours in Computer Science (Game Engineering)
 Postgraduate:
-    • I built up a good understanding of C++ and how to develop in an object-oriented paradigm. I gained a solid grasp of memory management and how to write memory safe C++ code. In addition, I learned about other C++ features such as: lambdas, templates, and dynamic memory allocation.
-    • Using C++ and OpenGL, I created a graphical scene utilising advanced techniques such as multi real time lightning, skeletal animation, and post processing techniques like blurring and grey scaling. I also gained experience writing shaders in GLSL which allowed me to apply my knowledge of the graphics pipeline.
-    • I used C++ to build upon a game engine framework, adding features such as: collision response/detection, physics, scene hierarchy and AI.
-    • I was a part of s C++ team project to deliver a multiplayer, cross platform game, within an agile development cycle and taking full advantage of version control and continuous integration.
+- I built up a good understanding of C++ and how to develop in an object-oriented paradigm. I gained a solid grasp of memory management and how to write memory safe C++ code. In addition, I learned about other C++ features such as: lambdas, templates, and dynamic memory allocation.
+- Using C++ and OpenGL, I created a graphical scene utilising advanced techniques such as multi real time lightning, skeletal animation, and post processing techniques like blurring and grey scaling. I also gained experience writing shaders in GLSL which allowed me to apply my knowledge of the graphics pipeline.
+- I used C++ to build upon a game engine framework, adding features such as: collision response/detection, physics, scene hierarchy and AI.
+- I was a part of s C++ team project to deliver a multiplayer, cross platform game, within an agile development cycle and taking full advantage of version control and continuous integration.
 Undergraduate:
-    • I learnt about C# and HLSL and how to utilise them when creating a graphical scene in Unity. The scene recorded and displayed performance, running above the 60 frames per second threshold.
-    • I had the opportunity to explore and implement a wide variety of game development techniques such as: boids, collision response and state management. I also expanded on my knowledge of object-oriented programming and scene hierarchies.
-    • I collaborated with a group of peers to create a mobile application that simulated online banking. This was accomplished using AWS cloud storage with its SDK. This project involved an investigation into security features, such as credentials, checksums, and RSA encryption.
+- I learnt about C# and HLSL and how to utilise them when creating a graphical scene in Unity. The scene recorded and displayed performance, running above the 60 frames per second threshold.
+- I had the opportunity to explore and implement a wide variety of game development techniques such as: boids, collision response and state management. I also expanded on my knowledge of object-oriented programming and scene hierarchies.
+- I collaborated with a group of peers to create a mobile application that simulated online banking. This was accomplished using AWS cloud storage with its SDK. This project involved an investigation into security features, such as credentials, checksums, and RSA encryption.
 A-Levels – History(A), Computer Science Advanced (B), Mathematics (C)
 10 GCSEs – Grades A* - C including English and Maths
 #### Related Skills
@@ -77,17 +77,14 @@ Teamwork: From working with and organising projects at University to working wit
 Organisation: I have been able to manage my own time well as well as others by taking part in or leading team projects, societies, and clubs. This was especially so at Nomad where I and the other programmers organised ourselves and self-assigned tasks based on our prior experiences or preference.
 Diligence: I have met or exceeded the boundaries set throughout university and at Nomad through persistent practice at home as apart of hobby projects and independent exploration of solutions and techniques online for the purpose of understanding them. 
 Programming Languages: C++, C#, C, GLSL, HLSL, Java and Python
-    • I was awarded the Bebras gold certificate for completing the organisation's elite challengers that aim to test problem solving skills in 16- to 18-year-olds. This was done outside of my 6th forms curriculum as a way for me to improve my problem-solving skills and sharpen them in a way I can apply when working on computer science projects.
-    • I have a love of both video and tabletop games, I have collections of board games, video games and trading cards. I have pursued this interest within clubs such as the tabletop and board game society. I also managed a tabletop club at my secondary school for 2 years.
-    • I am passionate about the techniques of making video games and fascinated with their implementation. I regularly spend my spare time creating projects to try out new ideas I came up with throughout the day or pick up and learn the basics of a new game engine or programming language. I also explore game concepts through online tutorials and videos.
+- I was awarded the Bebras gold certificate for completing the organisation's elite challengers that aim to test problem solving skills in 16- to 18-year-olds. This was done outside of my 6th forms curriculum as a way for me to improve my problem-solving skills and sharpen them in a way I can apply when working on computer science projects.
+- I have a love of both video and tabletop games, I have collections of board games, video games and trading cards. I have pursued this interest within clubs such as the tabletop and board game society. I also managed a tabletop club at my secondary school for 2 years.
+- I am passionate about the techniques of making video games and fascinated with their implementation. I regularly spend my spare time creating projects to try out new ideas I came up with throughout the day or pick up and learn the basics of a new game engine or programming language. I also explore game concepts through online tutorials and videos.
 
 References are available upon request
 Donald Whiteford, CEO of Nomad Games Limited – don.whiteford@nomadgames.co.uk
 Carl Jackson, Design Director at Nomad Games Limited – Carl.Jackson@nomadgames.co.uk
 
-### Contact Details
-matthew.holdsworth2@gmail.com
-
-### Contact Details
+### Links
 https://www.linkedin.com/in/matthew-holdsworth-449535264/
 https://github.com/MatthewHoldsworth
