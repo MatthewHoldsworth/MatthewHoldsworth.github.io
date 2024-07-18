@@ -1,25 +1,25 @@
-#My Portfolio
+# My Portfolio 
 
-###Physics Engine C
+### Physics Engine C
 Body
 
-###Programmatic-Planet-Rendering
+### Programmatic-Planet-Rendering
 Body
 
-###CSC3231-UnityGraphics
+### CSC3231-UnityGraphics
 Body
 
-###Physics Engine C
+### Physics Engine C
 Body
 
-###OpenGLGraphics
+### OpenGLGraphics
 Body
 
-###3DTBS
+### 3DTBS
 Body
 
-###CV
+### CV
 Body
 
-###Contact Details
+### Contact Details
 Body
