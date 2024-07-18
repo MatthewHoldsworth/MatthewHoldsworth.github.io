@@ -58,7 +58,7 @@ Nomad Games – Programmer – April 2023 – August 2024
 - Builds of the product were made and sent out at various stages of development to publishers and received positive feedback. These demo builds were made within deadlines and contained features specific to informing publishers of the game.
 - Having been more experienced in Unity than Unreal I faced many challenges when being brought on. Due to the size of the team I was expected to work on almost every aspect of the game. I had to quickly learn how to develop unreal Behaviour Trees, UI Widgets and Blueprints. I coped with this by practising and learning about these systems outside of work, and over many iterations my work on these systems within the project improved and was brought up to a higher standard.
 - From my time at Nomad I have used wide range of Unreal systems such as Unreal Insights, Behaviour Trees, Materials, Environmental Query System, Gameplay Ability System, UI, Animations and its Blueprints.
-####Education
+#### Education
 Newcastle University
 Master of Computing with First Class Honours in Computer Science (Game Engineering)
 Postgraduate:
